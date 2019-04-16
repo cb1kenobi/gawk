@@ -54,7 +54,7 @@
     "gulp-plumber": "^1.2.1",
     "gulp-sourcemaps": "^2.6.4",
     "mocha": "^6.0.2",
-    "nyc": "^13.1.0",
+    "nyc": "^14.0.0",
     "sinon": "^7.2.2",
     "sinon-chai": "^3.3.0"
   },
